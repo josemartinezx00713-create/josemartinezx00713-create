@@ -41,7 +41,7 @@
       <td align="center">
         <a href="https://github.com/josemartinezx00713-create/Wayru-prueba">
           <img src="https://images.alphacoders.com/113/thumb-1920-1130469.png" alt="Proyectos HTML" width="150"/><br>
-          Proyectos HTML
+          Prueba técnica
         </a>
       </td>
   </table>
